@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CIE10</string>
+    <string name="navi_capitulo">Capítulos</string>
+    <string name="navi_seccion">Capítulos</string>
+    <string name="navi_busqueda">Búsqueda</string>
+    <string name="navi_favorito">Favoritos</string>
+    <string name="navi_aviso">Aviso</string>
+    <string name="navi_voz">Voz</string>
+    <string name="navi_mas">Más</string>
+    <string name="navi_ads">Sin Publicidad</string>
+    <string name="navi_comentarios">Que más deseas</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
