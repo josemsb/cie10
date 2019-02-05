@@ -6,6 +6,6 @@ Esta app contiene toda la Clasificación internacional de enfermedades CIE10 en 
 CIE10 app es muy útil para todos los médicos ya que tendrán toda esta amplia clasificación en su dispositivo móvil.
 
 Paquetes usados:
-- SqiLite
+- SqlLite
 - Servicios
 - API Wikipedia
